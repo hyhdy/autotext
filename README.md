@@ -11,7 +11,7 @@ Instagram效果图
 
 本项目实现的效果图
 
-<img src="https://img-blog.csdnimg.cn/20190316082607240.gif"/>
+<img src="https://raw.githubusercontent.com/hyhdy/customview-samples/master/img-folder/auto.gif"/>
 
 ## 快速接入
 1. 在build.gradle添加依赖
