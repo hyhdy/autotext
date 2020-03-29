@@ -6,12 +6,12 @@
 
 Instagram效果图
 
-<img src="https://img-blog.csdnimg.cn/20190314094035690.gif"/>
+<img src="https://img-blog.csdnimg.cn/20190316082607240.gif"/>
 
 
 本项目实现的效果图
 
-<img src="https://img-blog.csdnimg.cn/20190316082607240.gif"/>
+<img src="https://img-blog.csdnimg.cn/20190314094035690.gif"/>
 
 ## 快速接入
 1. 在build.gradle添加依赖
