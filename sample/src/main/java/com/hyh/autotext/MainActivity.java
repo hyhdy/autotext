@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         mAutoEditText = findViewById(R.id.aet_input);
-        mAutoEditText.setLayerType(View.LAYER_TYPE_SOFTWARE, null);
+        //mAutoEditText.setLayerType(View.LAYER_TYPE_SOFTWARE, null);
         //mAutoEditText.setTypeface(Typeface.createFromAsset(getAssets(),"HYQiHei-55S.ttf"));
         mAutoEditText.requestFocus();
     }
