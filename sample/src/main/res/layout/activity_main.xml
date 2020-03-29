@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#99000000"
+    >
+
+    <com.hyh.autolib.automaitcEditText.AutoEditText
+        android:id="@+id/aet_input"
+        android:layout_width="250dp"
+        android:layout_height="280dp"
+        android:padding="10dp"
+        android:background="@null"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        />
+
+</FrameLayout>
