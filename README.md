@@ -15,7 +15,14 @@ Instagram效果图
 参考博客：https://blog.csdn.net/hyhlmy/article/details/88545104
 
 ## 快速接入
+1. 在build.gradle添加依赖
+```
+dependencies {
+
+    implementation 'com.hyh:autotext:1.0.0'
+    
+}
+```
+2. 
 直接使用
-
-
 定制化EditText
