@@ -22,7 +22,7 @@ dependencies {
     
 }
 ```
-2. 在需要实现文字自动排版功能的地方直接使用AutoEditText替代EditText就可以.
+2. 在需要实现文字自动排版功能的地方直接使用AutoEditText替代EditText就可以。具体可看sample项目。
 
 ## 实现原理
 参考博客：https://blog.csdn.net/hyhlmy/article/details/88545104
