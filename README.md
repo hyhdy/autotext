@@ -11,7 +11,14 @@ Instagram效果图
 
 本项目实现的效果图
 
+1. 正常输入
 <img src="https://raw.githubusercontent.com/hyhdy/customview-samples/master/img-folder/auto.gif"/>
+
+2. 中英文，数字，表情混合输入
+<img src="https://github.com/hyhdy/autotext/blob/master/img-folder/multiple.gif"/>
+
+3. 极端输入
+<img src="https://github.com/hyhdy/autotext/blob/master/img-folder/QQ20200404-0.gif"/>
 
 ## 快速接入
 1. 在build.gradle添加依赖
